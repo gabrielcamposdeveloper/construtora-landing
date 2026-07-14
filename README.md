@@ -24,11 +24,11 @@ Componentização | Reutilização de componentes | Organização da arquitetura
 
 ![Detalhes](public/images/details.png)
 
-### Carrinho
+### Informações
 
 ![Carrinho](public/images/cart.png)
 
-### Mobile
+### Contato
 
 ![Mobile](public/images/mobile.png)
 
