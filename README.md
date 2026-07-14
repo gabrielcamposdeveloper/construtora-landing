@@ -1,75 +1,69 @@
-# React + TypeScript + Vite
+# React UI Study
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Estudo desenvolvido para praticar conceitos de Front-end utilizando **React** e **Tailwind CSS**, com foco em componentização, responsividade e experiência do usuário.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-## React Compiler
+## 🎯 Objetivos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Componentização
+- Reutilização de componentes
+- Organização da arquitetura
+- Responsividade (Mobile First)
+- UX/UI
+- Hierarquia visual
+- Clean Code
 
-## Expanding the ESLint configuration
+## 📷 Screenshots
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Home
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+![Home](public/images/home.png)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Produtos
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+![Produtos](public/images/products.png)
 
+### Detalhes
+
+![Detalhes](public/images/details.png)
+
+### Carrinho
+
+![Carrinho](public/images/cart.png)
+
+### Mobile
+
+![Mobile](public/images/mobile.png)
+
+## ⚙️ Como executar
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd seu-repositorio
+
+npm install
+
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 📚 Aprendizados
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Durante este estudo foram praticados conceitos como:
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- Estruturação de aplicações React
+- Componentes reutilizáveis
+- Organização de pastas
+- Layout responsivo
+- Boas práticas com Tailwind CSS
+- Criação de interfaces focadas em UX
 
-```
+## 👨‍💻 Autor
+
+Gabriel Campos
