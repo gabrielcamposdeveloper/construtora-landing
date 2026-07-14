@@ -4,20 +4,11 @@ Estudo desenvolvido para praticar conceitos de Front-end utilizando **React** e 
 
 ## 🚀 Tecnologias
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+React | TypeScript |Vite |Tailwind CSS
 
 ## 🎯 Objetivos
 
-- Componentização
-- Reutilização de componentes
-- Organização da arquitetura
-- Responsividade (Mobile First)
-- UX/UI
-- Hierarquia visual
-- Clean Code
+Componentização | Reutilização de componentes | Organização da arquitetura | Responsividade (Mobile First) | UX/UI | Hierarquia visual | Clean Code
 
 ## 📷 Screenshots
 
