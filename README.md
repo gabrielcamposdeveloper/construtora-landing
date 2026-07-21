@@ -57,4 +57,4 @@ Durante este estudo foram praticados conceitos como:
 
 ## 👨‍💻 Autor
 
-Gabriel Campos
+- Gabriel Campos
