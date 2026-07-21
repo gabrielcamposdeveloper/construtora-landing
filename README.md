@@ -44,17 +44,6 @@ npm install
 npm run dev
 ```
 
-## 📚 Aprendizados
-
-Durante este estudo foram praticados conceitos como:
-
-- Estruturação de aplicações React
-- Componentes reutilizáveis
-- Organização de pastas
-- Layout responsivo
-- Boas práticas com Tailwind CSS
-- Criação de interfaces focadas em UX
-
 ## 👨‍💻 Autor
 
 - Gabriel Campos
