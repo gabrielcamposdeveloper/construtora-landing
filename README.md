@@ -1,14 +1,14 @@
 # React UI Study
 
-Estudo desenvolvido para praticar conceitos de Front-end utilizando **React** e **Tailwind CSS**, com foco em componentização, responsividade e experiência do usuário.
+A study project created to practice **Front-end** concepts using **React** and **Tailwind CSS**, with a focus on component-based architecture, responsive design, and user experience.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-React | TypeScript |Vite |Tailwind CSS
+React | TypeScript | Vite | Tailwind CSS
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-Componentização | Reutilização de componentes | Organização da arquitetura | Responsividade (Mobile First) | UX/UI | Hierarquia visual | Clean Code
+Component-Based Architecture | Reusable Components | Scalable Project Structure | Responsive Design (Mobile First) | UX/UI | Visual Hierarchy | Clean Code
 
 ## 📷 Screenshots
 
@@ -16,34 +16,34 @@ Componentização | Reutilização de componentes | Organização da arquitetura
 
 ![Home](public/images/home.png)
 
-### Produtos
+### Products
 
-![Produtos](public/images/products.png)
+![Products](public/images/products.png)
 
-### Detalhes
+### Details
 
-![Detalhes](public/images/details.png)
+![Details](public/images/details.png)
 
-### Informações
+### Cart
 
-![Carrinho](public/images/cart.png)
+![Cart](public/images/cart.png)
 
-### Contato
+### Contact
 
-![Mobile](public/images/mobile.png)
+![Contact](public/images/mobile.png)
 
-## ⚙️ Como executar
+## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/your-username/your-repository.git
 
-cd seu-repositorio
+cd your-repository
 
 npm install
 
 npm run dev
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 - Gabriel Campos
